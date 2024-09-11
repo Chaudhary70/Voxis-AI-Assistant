@@ -1,1 +1,1 @@
-# Voxis-AI-Assistant
+# Voxis-Ai-Assistant
